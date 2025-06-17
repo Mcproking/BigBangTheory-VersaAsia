@@ -17,7 +17,7 @@ In the distant future, humanity has become an interstellar civilization, explori
 <h2>Setup</h2>
 Pre-requirement
 <ul>Nodejs v22</ul>
-<hr>
+<hr width='2px'>
 Get typescript and ts-node<br>
 
 ```npm
