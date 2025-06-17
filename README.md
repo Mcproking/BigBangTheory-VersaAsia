@@ -14,10 +14,9 @@ In the distant future, humanity has become an interstellar civilization, explori
     But the universe has secrets of its own. Could this not be a disaster, but a test — or a cosmic birth? One where every Big Bang is not the end… but the beginning of a Prime Genesis?
 </details>
 
-<h2>Setup</h2>
-Pre-requirement
-<ul>Nodejs v22</ul>
-<hr height='2px'>
+<h2>Setup and requirements</h2>
+Pre-requirement: Nodejs v22
+
 Get typescript and ts-node<br>
 
 ```npm
